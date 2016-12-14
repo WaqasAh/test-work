@@ -1,4 +1,4 @@
-forge.puppetlabs.com'
+'forge.puppetlabs.com'
 # install from Puppet Forge
 mod 'puppetlabs/concat'
 mod 'puppetlabs/ntp', '4.1.0'
