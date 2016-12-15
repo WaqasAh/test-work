@@ -6,6 +6,6 @@ mod 'puppet-nginx', '0.5.0'
 mod 'puppetlabs-apache', '1.10.0'
 
 # install from github
-mod 'test',
-:git => 'https://github.com/WaqasAh/test-work.git',
-:tag => 'master'
+#mod 'test',
+#:git => 'https://github.com/WaqasAh/test-work.git',
+#:tag => 'master'
